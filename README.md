@@ -1,6 +1,6 @@
 # G-Code to CW/CCW
-G-Code translate to CW/CCW protocol for driving СNC.
-CW - rotate stepper motor clockwise;
+G-Code translate to CW/CCW protocol for driving СNC. __
+CW - rotate stepper motor clockwise; __
 CCW - rotate stepper motor counterclockwise.
 This program translate G-Code to the sequence of bits.
 For example: 
