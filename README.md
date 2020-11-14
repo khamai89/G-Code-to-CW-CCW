@@ -7,7 +7,7 @@ For example:                                                                    
 bit 0 - X axis CW;                                                                                                                                      \ 
 bit 1 - X axis CCW;                                                                                                                                     \
 bit 2 - Y axis CW;                                                                                                                                      \
-bit 3 - Y axis CCW;                                                                                                                                     \
+bit 3 - Y axis CCW;                                                                                                                                     
 
 This sequence of bits will cause the engine to take 2 steps counterclockwise (Y-axis stepper motor) and 2 steps clockwise (Y-axis stepper motor):       \
 00001000 - (1)This byte was received as a result of the program                                                                                         \
