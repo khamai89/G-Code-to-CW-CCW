@@ -16,10 +16,10 @@ This sequence of bits will cause the engine to take 2 steps counterclockwise (Y-
 00000000 - (2)  \
 00000100 - (1)  \
 00000000 - (2)  \
-00000100 - (1)  \
+00000100 - (1)  
 
 5 bits is used to turn the laser and etc on/off state.                                                                                                  \
-Bit state is determined by negative value of Z axis in G-Code.                                                                                          \
+Bit state is determined by negative value of Z axis in G-Code.                                                                                          
 
 
 
